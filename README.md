@@ -12,7 +12,7 @@ In my free time, I enjoy using Linux, exploring open-source software, and learni
 
 - [Cloud Storage App](https://github.com/guilhermetorresm/cloud-storage-app) — Cloud-based file storage platform built with AWS, FastAPI, and PostgreSQL. Developed in a team environment with a focus on backend development and cloud infrastructure.
 - [Sword and Pan](https://github.com/ES2-UFPI/SwordAndPan) — A Unity game developed in a team setting, emphasizing collaborative development workflows using GitHub tools and best practices.
-- [Classroom Management System](https://github.com/WhityWolf/classroom-management) — A web application for classroom and course allocation at CCN/UFPI, developed independently from requirements gathering to implementation.
+- [Classroom Management System](https://github.com/WhityWolf/classroom-management) (WIP) — A web application for classroom and course allocation at CCN/UFPI, developed independently from requirements gathering to implementation.
 
 
 ### 🛠️ Technologies
